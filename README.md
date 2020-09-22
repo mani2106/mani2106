@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=mani2106&show_icons=true)](https://github.com/mani2106?tab=repositories)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mani2106)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <!--
 **mani2106/mani2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 See what I’m currently working on [here](http://mani2106.github.io/)
+- Add your own github stats from [here](https://github.com/anuraghazra/github-readme-stats)
